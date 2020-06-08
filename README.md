@@ -1,3 +1,4 @@
+[![index]( ./assets/热门云产品1040.100.jpg )](https://cloud.tencent.com/act/cps/redirect?redirect=1052&cps_key=736e609d66e0ac4e57813316cec6fd0b&from=console)
 # novel-cloud
 
 #### 背景
@@ -220,3 +221,5 @@ GitHub仓库地址：  https://github.com/201206030/novel-cloud
 开源项目不易，若此项目能得到你的青睐，可以捐赠支持作者持续开发与维护。
 
 ![mini-code](https://gitee.com/xiongxyang/novel-plus/raw/release_v2.5.0/assets/jk.png)
+
+[![index]( ./assets/120060.jpg )](https://www.aliyun.com/minisite/goods?userCode=uf4nasee )
